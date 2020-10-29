@@ -1,0 +1,13 @@
+C:\Users\gnyork\source\repos\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.exe
+C:\Users\gnyork\source\repos\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.deps.json
+C:\Users\gnyork\source\repos\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.runtimeconfig.json
+C:\Users\gnyork\source\repos\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.runtimeconfig.dev.json
+C:\Users\gnyork\source\repos\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.dll
+C:\Users\gnyork\source\repos\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.pdb
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.csprojAssemblyReference.cache
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.AssemblyInfoInputs.cache
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.AssemblyInfo.cs
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.dll
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.pdb
+C:\Users\gnyork\source\repos\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.genruntimeconfig.cache
